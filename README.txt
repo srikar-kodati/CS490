@@ -7,12 +7,12 @@ A student can log in to the system and take an exam or check exam gades
 A instructor can log in to the system and create an exam, grade an exam, or add comments to a student
 
 Student login:
-Username -> nrv26
-Password -> class
+Username -> private
+Password -> private
 
 Insturctor login:
-Username -> theo
-Password -> cs490
+Username -> private
+Password -> private
 
 Demo:
 
